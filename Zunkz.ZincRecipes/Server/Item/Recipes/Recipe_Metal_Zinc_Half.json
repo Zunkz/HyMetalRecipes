@@ -1,0 +1,26 @@
+{
+  "BenchRequirement": [
+    {
+      "Id": "Builders",
+      "Type": "StructuralCrafting",
+      "Categories": [
+        "Metal_Zinc"
+      ]
+    }
+  ],
+  "Input": [
+    {
+      "ItemId": "Metal_Zinc"
+    }
+  ],
+  "Output": [
+    {
+      "ItemId": "Metal_Zinc_Half",
+      "Quantity": 2
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Metal_Zinc_Half",
+    "Quantity": 2
+  }
+}

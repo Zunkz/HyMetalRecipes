@@ -1,0 +1,28 @@
+{
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Furnace"
+    }
+  ],
+  "Input": [
+    {
+      "ItemId": "Ingredient_Bar_Copper",
+      "Quantity": 1
+    },
+    {
+      "ItemId": "Ingredient_Bar_Iron",
+      "Quantity": 1
+    }
+  ],
+  "Output": [
+    {
+      "ItemId": "Ingredient_Bar_Bronze",
+      "Quantity": 2
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Bar_Bronze"
+  },
+  "TimeSeconds": 3
+}

@@ -1,0 +1,15 @@
+{
+  "Group": "Zunkz",
+  "Name": "CopperRecipes",
+  "Version": "1.0.0",
+  "Description": "",
+  "Authors": [],
+  "Website": "",
+  "ServerVersion": "2026.03.19-d0cb09bb3",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

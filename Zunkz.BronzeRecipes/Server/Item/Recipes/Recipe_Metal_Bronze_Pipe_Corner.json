@@ -1,0 +1,26 @@
+{
+  "BenchRequirement": [
+    {
+      "Id": "Builders",
+      "Type": "StructuralCrafting",
+      "Categories": [
+        "Metal_Bronze"
+      ]
+    }
+  ],
+  "Input": [
+    {
+      "ItemId": "Metal_Bronze"
+    }
+  ],
+  "Output": [
+    {
+      "ItemId": "Metal_Bronze_Pipe_Corner",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Metal_Bronze_Pipe_Corner",
+    "Quantity": 1
+  }
+}

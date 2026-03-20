@@ -1,0 +1,26 @@
+{
+  "BenchRequirement": [
+    {
+      "Id": "Builders",
+      "Type": "StructuralCrafting",
+      "Categories": [
+        "Metal_Copper"
+      ]
+    }
+  ],
+  "Input": [
+    {
+      "ItemId": "Metal_Copper"
+    }
+  ],
+  "Output": [
+    {
+      "ItemId": "Metal_Copper_Roof_Flat",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Metal_Copper_Roof_Flat",
+    "Quantity": 1
+  }
+}

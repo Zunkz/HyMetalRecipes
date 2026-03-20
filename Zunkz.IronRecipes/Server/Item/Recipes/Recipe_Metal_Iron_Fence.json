@@ -1,0 +1,24 @@
+{
+  "BenchRequirement": [
+    {
+      "Id": "Builders",
+      "Type": "StructuralCrafting",
+      "Categories": [
+        "Metal_Iron"
+      ]
+    }
+  ],
+  "Input": [
+    {
+      "ItemId": "Metal_Iron"
+    }
+  ],
+  "Output": [
+    {
+      "ItemId": "Metal_Iron_Fence"
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Metal_Iron_Fence"
+  }
+}
