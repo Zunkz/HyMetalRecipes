@@ -1,4 +1,5 @@
-Adds recent METAL recipes to the game Builder's Bench! 
+Adds recent METAL recipes to the game Builder's Bench!
+
 You can download the mods as [separate packs](https://github.com/Zunkz/HyMetalRecipes/releases/download/Release/HyMetalRecipes_Pack.zip), or download them as a [combined pack](https://github.com/Zunkz/HyMetalRecipes/releases/download/Release/Zunkz.MetalRecipes_Combined.zip). 
 
 > [!NOTE]  
