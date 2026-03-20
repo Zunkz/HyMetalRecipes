@@ -4,7 +4,6 @@ You can download the mods as [separate packs](https://github.com/Zunkz/HyMetalRe
 
 > [!NOTE]  
 > Zinc Block is crafted with 1 Thorium Ingot, as Zinc ingots don't exist yet.
-
 > Bronze Ingot is crafted with 1 Iron Ingot & 1 Gold Ingot in a furnace.
 
 <details>
